@@ -23,6 +23,9 @@ Improved PHP omni-completion. Based on the default phpcomplete.vim.
  * Namespace support ( **Requires** [patched ctags](https://github.com/shawncplus/phpcomplete.vim/wiki/Patched-ctags) )
  * Enhanced jump-to-definition on <kbd>ctrl</kbd>+<kbd>]</kbd>
 
+## How to bulid ctags
+this wiki:https://github.com/shawncplus/phpcomplete.vim/wiki/Getting-better-tags
+
 ## Install
 
 ### Pathogen
